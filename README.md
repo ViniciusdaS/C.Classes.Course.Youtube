@@ -1,5 +1,5 @@
 # C.Classes.Course.Youtube
 C languages Classes, from the BroCode Youtube channel course. 
 
-<p><b>Languages: C.</b></p>
-<p><b>IDE: VS_Code.</b></p>
+<p>Languages: <b>C.</b></p>
+<p>IDE: <b>VS_Code.</b></p>
